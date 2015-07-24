@@ -2,7 +2,6 @@
 using UnityEditor;
 using UnityEngine;
 using System.Collections.Generic;
-using UnityStandardAssets.ImageEffects;
 
 using System.Xml;
 using System.Xml.Serialization;

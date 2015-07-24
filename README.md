@@ -1,5 +1,5 @@
 # Texture-Creator
-Texture creation tool for unity
+Texture Creator is a simple unity editor extension to create the different maps you need for the standard shader from a single picture. 
 
 ## Installation
 
